@@ -6,7 +6,7 @@ A repository with my personal configuration files.
 
 Clone this repository in `~/.dotfiles` directory, e.g.:
 
-    git clone --recursive https://github.com/alexjjassuncao/dotfiles ~/.dotfiles
+    git clone --recursive git@github.com:alexjjassuncao/dotfiles.git ~/.dotfiles
 
 Install GNU [Stow](https://www.gnu.org/software/stow)
 
