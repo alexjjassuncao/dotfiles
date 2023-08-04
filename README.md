@@ -16,4 +16,4 @@ Install GNU [Stow](https://www.gnu.org/software/stow)
 Use `stow` to manage symlinks, e.g.:
 
     cd ~/.dotfiles
-    stow zsh
+    stow yabai
