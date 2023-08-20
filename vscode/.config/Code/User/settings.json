@@ -2,5 +2,6 @@
     "files.autoSave": "afterDelay",
     "files.insertFinalNewline": true,
     "workbench.iconTheme": "vscode-icons",
-    "editor.minimap.autohide": true
+    "editor.minimap.autohide": true,
+    "editor.scrollBeyondLastLine": false
 }
