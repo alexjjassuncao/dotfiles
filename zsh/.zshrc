@@ -10,4 +10,9 @@ if [[ -s "${ZDOTDIR:-$HOME}/.zprezto/init.zsh" ]]; then
   source "${ZDOTDIR:-$HOME}/.zprezto/init.zsh"
 fi
 
-# Customize to your needs...
+# asdf
+. "$HOME/.asdf/asdf.sh"
+## append completions to fpath
+fpath=(${ASDF_DIR}/completions $fpath)
+## initialise completions with ZSH's compinit
+autoload -Uz compinit && compinit

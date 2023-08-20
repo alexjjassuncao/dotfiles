@@ -5,4 +5,3 @@ do
     echo "Installing ${EXTENSION}..."
     code --install-extension ${EXTENSION}
 done < ./extensions.txt
-
