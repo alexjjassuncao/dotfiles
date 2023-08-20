@@ -10,8 +10,10 @@ Clone this repository in `~/.dotfiles` directory, e.g.:
 
 Install GNU [Stow](https://www.gnu.org/software/stow)
 
-    macOS:    brew install stow
-    Ubuntu:   apt install stow
+```bash
+macOS:  brew install stow
+Ubuntu: apt install stow
+```
 
 Use `stow` to manage symlinks, e.g.:
 
