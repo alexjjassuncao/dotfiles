@@ -12,6 +12,7 @@ Install GNU [Stow](https://www.gnu.org/software/stow)
 
     macOS:    brew install stow
     Fedora:   dnf install stow
+    Ubuntu:   apt install stow
 
 Use `stow` to manage symlinks, e.g.:
 
