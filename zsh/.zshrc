@@ -16,3 +16,7 @@ fi
 fpath=(${ASDF_DIR}/completions $fpath)
 ## initialise completions with ZSH's compinit
 autoload -Uz compinit && compinit
+
+# PATH
+path+=("$HOME/bin:$PATH")
+export PATH
