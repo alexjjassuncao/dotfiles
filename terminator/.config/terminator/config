@@ -9,13 +9,13 @@
   inactive_color_offset = 0.61
   suppress_multiple_term_dialog = True
   title_use_system_font = False
-  title_font = Fira Code weight=453 18
+  title_font = FantasqueSansM Nerd Font 16
 [keybindings]
 [profiles]
   [[default]]
     background_color = "#282a36"
     cursor_color = "#f8f8f2"
-    font = Fira Code weight=453 18
+    font = FantasqueSansM Nerd Font 16
     foreground_color = "#f8f8f2"
     scroll_on_keystroke = False
     scrollback_infinite = True
