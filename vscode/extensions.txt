@@ -1,3 +1,4 @@
 vscode-icons-team.vscode-icons
 dracula-theme.theme-dracula
 betterthantomorrow.calva
+bbrakenhoff.solarized-light-custom
