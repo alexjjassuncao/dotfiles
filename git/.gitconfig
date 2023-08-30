@@ -14,3 +14,20 @@
 	editor = vim
 [init]
 	defaultBranch = main
+[alias]
+  df = diff -b
+  st = status
+  br = branch
+[color "status"]
+  added = yellow
+  changed = green
+  untracked = cyan
+[color "diff"]
+  meta = yellow
+  frag = magenta
+  old = red
+  new = green
+[color "branch"]
+  current = yellow reverse
+  local = yellow
+  remote = green
