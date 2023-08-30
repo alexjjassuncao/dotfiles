@@ -3,7 +3,7 @@
 ## ln macOS
 
 ```bash
-ln -s ~/.dotfiles/vscode/.config/Code/User/settings.json ~/Library/Application\ Support/Code/User/settings.json
+ln -s ~/.dotfiles/vscode/settings.json ~/Library/Application\ Support/Code/User/settings.json
 ```
 
 ## Extensions
