@@ -1,8 +1,16 @@
 [user]
+	signingkey = FD519DD17EB23BDF
 	name = Alex Assunção
 	email = alexjjassuncao@gmail.com
-
+[commit]
+	gpgsign = true
+[push]
+	autoSetupRemote = true
+[pull]
+	rebase = false
 [github]
 	user = alexjjassuncao
 [core]
 	editor = vim
+[init]
+	defaultBranch = main

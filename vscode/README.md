@@ -1,11 +1,5 @@
 # VS Code
 
-## Stow
-
-```bash
-stow -d ~/.dotfiles vscode -t ~ --no-folding
-```
-
 ## ln macOS
 
 ```bash

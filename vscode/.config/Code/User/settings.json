@@ -18,7 +18,7 @@
     "terminal.integrated.lineHeight": 1.5,
     "vsicons.dontShowNewVersionMessage": true,
     "window.zoomLevel": 1,
-    "workbench.colorTheme": "Solarized Custom Light",
+    "workbench.colorTheme": "Atom One Light",
     "workbench.editor.enablePreview": false,
     "workbench.iconTheme": "vscode-icons",
     "workbench.startupEditor": "none",
