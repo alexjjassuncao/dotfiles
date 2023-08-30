@@ -18,6 +18,8 @@
   df = diff -b
   st = status
   br = branch
+  ci = commit
+  ph = push origin HEAD
 [color "status"]
   added = yellow
   changed = green

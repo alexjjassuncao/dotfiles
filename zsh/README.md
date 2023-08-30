@@ -1,7 +1,5 @@
 # Zsh
 
-## Install
-
 ## Prezto
 
 ```bash
