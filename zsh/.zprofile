@@ -18,7 +18,7 @@ fi
 #
 
 if [[ -z "$EDITOR" ]]; then
-  export EDITOR='nano'
+  export EDITOR='code'
 fi
 if [[ -z "$VISUAL" ]]; then
   export VISUAL='nano'
@@ -71,3 +71,11 @@ fi
 if [[ -z "$LESSOPEN" ]] && (( $#commands[(i)lesspipe(|.sh)] )); then
   export LESSOPEN="| /usr/bin/env $commands[(i)lesspipe(|.sh)] %s 2>&-"
 fi
+
+#
+# Aliases
+#
+if [[ -z "$EDITOR" ]]; then
+  export DOTFILES_DIR="$HOME/.dotfiles"
+fi
+alias dotfiles="$EDITOR $DOTFILES_DIR"

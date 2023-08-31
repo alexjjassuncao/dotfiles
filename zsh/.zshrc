@@ -20,3 +20,6 @@ autoload -Uz compinit && compinit
 # PATH
 path+=("$HOME/bin:$PATH")
 export PATH
+
+# Default editor
+export EDITOR=code
