@@ -18,7 +18,7 @@
     "terminal.integrated.lineHeight": 1.5,
     "vsicons.dontShowNewVersionMessage": true,
     "window.zoomLevel": 1,
-    "workbench.colorTheme": "Atom One Light",
+    "workbench.colorTheme": "Dracula",
     "workbench.editor.enablePreview": false,
     "workbench.iconTheme": "vscode-icons",
     "workbench.startupEditor": "none",
